@@ -1,1 +1,2 @@
-utils.py
+def get_message():
+    return "Utility function working"
